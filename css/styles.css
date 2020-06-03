@@ -10437,7 +10437,10 @@ header.masthead .masthead-heading {
 .team-member h5{
   color: #fff;
 }
-.team-member h5:hover{
+.team-member h6{
+  color: #fff;
+}
+.team-member h6:hover{
   color: #fed136
 } 
 .team-member .timeline-body{
